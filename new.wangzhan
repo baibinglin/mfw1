@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>柏秉霖的个人网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+      background-colour: #f1f1f1/;
+      text-align: center;
+      padding: 40px;
+     ">
+      <img src='https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/f9dcd100baa1cd11ecc55854b112c8fcc3ce2d56.jpg' alt="柏秉霖" width="150px" height="150px"
+    <div style="
+       ">
+       <p>大家好 我是柏秉霖</p>
+       <p>欢迎来到我的个人网站</p>
+    </div>
+    <div style="
+      background-colour: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+      font-size: 12px;
+     ">
+      <p>下面是个人链接</p>
+      <a href="https://l.daqinjia.cn/jrpg4">微信</a>
+      <a href="https://l.daqinjia.cn/6jc8c">QQ</a>
+      <a href="https://l.daqinjia.cn/pcebg">抖音</a>
+     </div>
+  </body>
+</html>
